@@ -72,7 +72,7 @@ A fully functional real-time chat application built using the MERN stack, enabli
 5. Open your browser and navigate to `http://localhost:3000`.
 
 ## Demo
-Demo video:
+Demo video:(open in incognito window)
 
 https://drive.google.com/file/d/1HX4cJFnVlsT-ZrUB3mTh2vIc29h3fiCH/view?usp=sharing
 
